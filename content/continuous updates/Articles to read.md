@@ -1,0 +1,3 @@
+- [Loss Functions in Machine Learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
+- [Euler Diagrams (And Venn’s)](https://fr.wikipedia.org/wiki/Diagramme_d%27Euler)
+- 
